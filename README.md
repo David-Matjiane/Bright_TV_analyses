@@ -47,4 +47,11 @@ Key results include:
 Overall, the project supports Bright TV’s goal of improving audience engagement and strengthening its digital presence.
 
 ## 5. Tools Used in the Case Study
+1.Databricks (Data Processing)
+
+2.2SQL (Data Analysis)
+
+3.Microsoft Excel (Data Visualization)
+
+4.Miro (Planning & Architecture)
 
